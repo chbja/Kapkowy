@@ -1,5 +1,5 @@
 - 👋 Hej, jestem Igor.
-- 😎 Ucze sie języka unity.
+- 😎 Ucze sie języka C# na systemie Unity.
 - 🤷‍♂️ Jest to pasja.
 - 🎂 Mam 14 lat.
 - 😜 Nauke zacząłem 7.10.2021.
