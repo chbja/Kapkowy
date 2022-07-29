@@ -1,6 +1,6 @@
-- 👋 Hej, jestem Igor.
-- 😎 Ucze sie języka C# na systemie Unity.
-- 🤷‍♂️ Jest to pasja.
-- 🎂 Mam 15 lat.
-- 😜 Nauke zacząłem 7.10.2021.
-- 🤙 Miłego dnia/nocy.
+- 👋 Hi, my name is Igor.
+- 😎 I learning python.
+- 🤷‍♂️ I love programing.
+- 🎂 15 yo.
+- 😜 I learning every day.
+- 🤙 Hope your everyday are good!
