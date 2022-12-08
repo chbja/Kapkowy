@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Igor.
 - 😎 I learning python.
 - 🤷‍♂️ I love programing.
-- 🎂 15 yo.
+- 🎂 16 yo.
 - 😜 I learning every day.
 - 🤙 Hope your everyday are good!
