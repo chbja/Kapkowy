@@ -1,5 +1,1 @@
-- 😎 I learning python.
-- 🤷‍♂️ I love programing.
-- 🎂 16 yo.
-- 😜 I learning every day.
-- 🤙 Hope your everyday are good!
+ 
